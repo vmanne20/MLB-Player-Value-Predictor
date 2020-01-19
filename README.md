@@ -1,2 +1,1 @@
-Author: Vamsi Manne
-Class: Big Data Economics (ECON 4984)
+Authors: Vamsi Manne, Aditya Kanuri
